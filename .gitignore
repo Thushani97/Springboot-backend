@@ -4,7 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-D:\Java Spring Boot\Projects\1.CRUD application-Spring boot, MySQL, POSTMAN\springboot-backend\src\main\resources\application.properties
+*.properties
 ### STS ###
 .apt_generated
 .classpath
